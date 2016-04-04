@@ -1,0 +1,17 @@
+{
+  "name": "olos-piano",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "olos-piano.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5",
+    "core-menu": "Polymer/core-menu#~0.5.5",
+    "paper-item": "Polymer/paper-item#~0.5.5",
+    "paper-dropdown": "Polymer/paper-dropdown#~0.5.5",
+    "paper-dropdown-menu": "Polymer/paper-dropdown-menu#~0.5.5",
+    "nexusUI": "https://github.com/therewasaguy/nexusUI.git#1.0.6"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^1.1.4"
+  }
+}
